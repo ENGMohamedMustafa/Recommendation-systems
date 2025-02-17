@@ -37,7 +37,8 @@ Machine Learning & Computer Vision Engineer with expertise in **Deep Learning, N
 ✅ **AI & ML:** Deep Learning, NLP, Reinforcement Learning, GANs  
 ✅ **Big Data:** PySpark, Hadoop, Apache Kafka, Airflow  
 ✅ **Visualization:** Power BI, Matplotlib, Seaborn  
-✅ **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes  
+✅ **Cloud & Deployment:** AWS, GCP![Screenshot 2025-02-15 104835](https://github.com/user-attachments/assets/577e200e-2ca4-4a1b-8197-665949877f96)
+, Docker, Kubernetes  
 
 ---
 
