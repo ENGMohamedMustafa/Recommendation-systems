@@ -11,7 +11,7 @@ A web-based movie recommendation application built with Streamlit that provides 
 - **Automatic Data Loading**: Automatically downloads and processes the MovieLens 100K dataset if not present
 
 ## Demo
-
+![Movie Recommender System Demo](https://ideal-yodel-979v6gxgqw773q4w-8501.app.github.dev/)
 ![Movie Recommender System Demo](https://github.com/ENGMohamedMustafa/Recommendation-systems/blob/main/Moive%20Recommendation-system/Screenshot%206.png)
 
 ## Requirements
