@@ -12,7 +12,7 @@ A web-based movie recommendation application built with Streamlit that provides 
 
 ## Demo
 
-![Movie Recommender System Demo](https://via.placeholder.com/800x450)
+![Movie Recommender System Demo](https://github.com/ENGMohamedMustafa/Recommendation-systems/blob/main/Moive%20Recommendation-system/Screenshot%206.png)
 
 ## Requirements
 
@@ -28,7 +28,7 @@ A web-based movie recommendation application built with Streamlit that provides 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/ENGMohamedMustafa/movie-recommender-system.git
    cd movie-recommender-system
    ```
 
