@@ -47,7 +47,7 @@ A web-based movie recommendation application built with Streamlit that provides 
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run recm.py
+   streamlit run MoiveRecommendation-system.py
    ```
 
 2. Open your web browser and navigate to `http://localhost:8501`
