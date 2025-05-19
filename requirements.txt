@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 scikit-learn
 pandas
 pytest
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+>>>>>>> 2df88a79b215388180c70da443e6dbfb54e39b2e
